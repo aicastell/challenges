@@ -1,9 +1,15 @@
-The Greplin Programming Challenge
+# What is in this repo
+
+This repo contais some programming challenges:
+
+- The Greplin Programming Challenge
+- CodeChef
+
+## The Greplin Programming Challenge
 
 This is my set of solutions for this challenge:
 
-Level 1
-----------------------------------------
+### Level 1
 
 Embedded in this block of text is the password for level 2.
 The password is the longest substring that is the same in reverse.
@@ -11,9 +17,7 @@ The password is the longest substring that is the same in reverse.
 As an example, if the input was "I like racecars that go fast"
 the password would be "racecar"
 
-
-Level 2
-----------------------------------------
+### Level 2
 
 Congratulations.  You have reached level 2.
 
@@ -28,8 +32,7 @@ You will receive additional instructions at that time.  For the second portion
 of this task, note that for the number 12 we consider the sum of the prime divisors
 to be 2 + 3 = 5.  We do not include 2 twice even though it divides 12 twice.
 
-Level 3
-----------------------------------------
+### Level 3
 
 Congratulations.  You have reached the final level.
 
@@ -50,9 +53,7 @@ Here is the list of numbers you should run your code on.
 The password is the number of subsets.  In the above case the
 answer would be 4.
 
-
-The End
-----------------------------------------
+### The End
 
 Congratulations.  You completed the challenge.  Your completion code is 118-170-234969.
 
@@ -64,3 +65,8 @@ USER at SUBDOMAIN dot DOMAIN
 Even if you're not looking for a job, we'd love to hear what you thought
 about the challenge.
 
+## Codechef
+
+You can find this challenges (and others) in this
+
+<https://www.codechef.com/>
